@@ -1,4 +1,4 @@
-#inlcud<stdio.h>
+#include<stdio.h>
 void main()
 {
 printf("HELLO This is Nikhil Shravan");
